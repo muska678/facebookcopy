@@ -1,0 +1,277 @@
+.fb{
+  background-color:#e9ecf5;
+  padding-bottom:33px;
+  box-shadow:0px -30px 1px #d3d8e8;
+  border-bottom:#d3d8e8;
+  }
+
+body{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding: 0;
+  }
+
+.logo{
+  position:relative;
+  border-bottom:1px solid #133783;
+  background-color:#3b5998;
+  width:100%;
+  height:82px;
+  box-sizing:border box;
+  }
+
+h1{
+   font-family:Tw Cen MT Condensed,Aerial;
+   color:white;
+   margin-left:269px;
+   font-size:325%;
+   padding-top:21px;
+  }
+
+.inputmail:focus,
+.inputpassword:focus{
+  outline:none;
+}
+
+table{
+   position:absolute;
+   margin-left:872px;
+   margin-top:-66px;
+   font-family:Agency FB;
+   font-weight:normal;
+   color:white;
+  }
+
+/*forgot password*/
+table a{
+  text-decoration:none;
+   color:#9cb4cc;
+  }
+
+/*login button*/
+table .submit{
+  color:white;
+  background-color:#4267b2;
+  border:1px solid #29487d;
+  width:50px;
+}
+
+.submit:hover{
+background-color:#3b5998;
+}
+
+/*styling input boxes*/
+input{
+  border:1px solid black;
+  width:147px;
+  height:23px;
+  box-sizing : border box;
+  margin-right:14px;
+}
+
+input:focus{
+  outline: none;
+}
+
+/*styling create a new account text*/
+.new_account{
+  font-family:Berlin Sans FB Regular;
+  color:#333333;
+  margin-left:858px;
+  font-size:250%;
+  margin-top:27px;
+}
+
+/*left side*/
+.left-description{
+  position:absolute;
+  font-family:Trebuchet MS Bold Italic;
+  width:29%;
+  font-weight:bold;
+  color:#0e385f;
+  font-size:130%;
+  margin-left:269px;
+  margin-top:-60px;
+}
+
+.image img{
+  position:absolute;
+  margin-left:280px;
+  width:465px;
+  height:27%;
+  border:5px solid #e9ecf5;
+  margin-top:-10px;
+}
+
+/*styling fb is free text*/
+.description{
+  font-family:Arial unicode MS Regular;
+  position:absolute;
+  color:#333333;
+  margin-top:-37px;
+  margin-left:858px;
+  font-size:125%;
+}
+
+/*styling new form*/
+.new_form{
+  margin-left:858px;
+  margin-top:30px;
+}
+
+.new_form input{
+  border:1px solid #bdc7d8;
+  border-radius:7px;
+  margin-bottom:9px;
+  height:45px;
+  font-size:110%;
+  padding-left:9px;
+  box-sizing:border box;
+}
+
+.name input{
+  width:192px;
+}
+
+.email input,
+.password input{
+  width:402px;
+}
+
+/*styling birthday*/
+.birthday{
+  font-family:Arial unicode MS Regular;
+  margin-top:-8px;
+  margin-left:858px;
+  font-size:131%;
+  color:#374150;
+}
+
+.date select{
+  padding-top:3px;
+  padding-bottom:4px;
+  width:54px;
+  height:30px;
+  box-sizing:border box;
+  margin-top:-12px;
+  margin-left:858px;
+}
+
+.month select{
+  position:absolute;
+  padding-top:3px;
+  padding-bottom:4px;
+  width:72px;
+  height:30px;
+  box-sizing:border box;
+  margin-top:-30px;
+  margin-left:914px;
+}
+
+.year select{
+  position:absolute;
+  padding-top:3px;
+  padding-bottom:4px;
+  width:66px;
+  height:30px;
+  box-sizing:border box;
+  margin-top:-30px;
+  margin-left:988px;
+}
+
+.why_dob{
+  position:absolute;
+  text-decoration:none;
+  margin-left:1064px;
+  margin-top: -30px;
+  font-size:85%;
+  width:11%;
+  color:#6978a5;
+}
+
+/*styling gender*/
+.gender{
+  font-size:120%;
+  margin-top:19px;
+  margin-left:858px;
+}
+
+.gender input{
+  height:1.8%;
+  width:1.8%;
+}
+
+.gender label{
+  margin-left:-13px;
+  margin-right:20px;
+}
+
+/*styling privacy T&C text*/
+.privacy{
+  font-size:85%;
+  margin-left:858px;
+  width:23%;
+  color:#77778a;
+}
+
+.privacy a{
+  text-decoration:none;
+  color:#365899;
+}
+
+/*styling sign-up button*/
+.signup input{
+  background-color:#63a350;
+  font-size:110%;
+  color:white;
+  padding-top:8px;
+  padding-bottom:8px;
+  height:37px;
+  width:190px;
+  box-sizing: border box;
+  border-radius:5px;
+  border: 1px solid #3b6e22;
+  margin-left:858px;
+  box-shadow: inset 2px -6px 10px #578943;
+
+}
+
+.signup input:hover{
+  background-color:#6daa59;
+  box-shadow: inset 2px -6px 20px #578943;
+}
+
+.Create_page{
+  color:#666666;
+  margin-left:858px;
+  font-weight:bold;
+  margin-top:39px;
+}
+
+.Create_page a{
+  color:#365899;
+  text-decoration:none;
+}
+
+nav{
+
+  width:975px;
+  margin-left:254px;
+/*  */
+  font-size:85%;
+}
+
+nav ul li{
+    list-style:none;
+    float:left;
+    margin-right:15px;
+    padding-bottom:5px;
+    color:#36588b;
+}
+
+nav ul li a{
+  text-decoration:none;
+
+}
